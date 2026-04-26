@@ -33,7 +33,6 @@ This is implemented using NumPy to ensure O(1) identification latency relative t
 
 ## Project Structure
 - `colorDetect.py`: Core application script.
-- `create_report.py`: Automated documentation generator.
 - `colors.csv`: Dataset containing 865 color records.
 - `pallete.jpg`: Standardized color grid image.
 
